@@ -1,0 +1,1 @@
+A gulp plugin to minify ASP.NET Razor view files.
