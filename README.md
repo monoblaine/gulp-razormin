@@ -1,4 +1,4 @@
-A gulp plugin to minify ASP.NET Razor view files.
+A gulp plugin to minify ASP.NET MVC Razor view files.
 
 # Installing
 

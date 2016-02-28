@@ -1,6 +1,6 @@
 {
   "name": "gulp-razormin",
-  "description": "Gulp plugin to minify ASP.NET Razor view files",
+  "description": "Gulp plugin to minify ASP.NET MVC Razor view files",
   "version": "0.0.1",
   "author": {
     "name": "Serhan Apaydın",
